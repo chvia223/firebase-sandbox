@@ -4,8 +4,6 @@ from firebase_admin import credentials
 from firebase_admin import firestore
 
 def main():
-    print("Hello World")
-
     db = initialize_database()
 
     # Used dictionary in place of a switch/case statement
