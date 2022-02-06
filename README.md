@@ -4,7 +4,7 @@ This program interfaces with a Google Firebase Firestore to interact with stored
 
 I wanted to simply practice connecting with a cloud database and interacting with it through a program. I chose to use a Minecraft server I've been playing on for a while for information context. It is by no means accurate and I intend for it to stay that way, for privacy of course. 
 
-The user will be able to view which players are in the database (server) and see small pieces of information related to each player. The user will also be able to add new users or delete old ones. On the chance that information is entered incorrectly or becomes outdated there is an option to modify existing user information.
+The user will be able to view which players are in the database (server) and see small pieces of information related to each player. The user will also be able to add new players or delete old ones. On the chance that information is entered incorrectly or becomes outdated there is an option to modify existing user information.
 
 [Firebase Tutorial/Demo Video](http://youtube.link.goes.here)
 
@@ -36,4 +36,4 @@ The collection is the Users. Each document and it's fields correspond with each 
 
 * Add a Collection to provide information that corresponds to the separate regions found within the Minecraft server.
 * I wanted to make use of the PyInquirer Library to make the UI/UX more intuitive.
-* Modifiy outputs to make options easier to understand and use.
+* Modify outputs to make options easier to understand and use.
