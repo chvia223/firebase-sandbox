@@ -6,7 +6,7 @@ I wanted to simply practice connecting with a cloud database and interacting wit
 
 The user will be able to view which players are in the database (server) and see small pieces of information related to each player. The user will also be able to add new players or delete old ones. On the chance that information is entered incorrectly or becomes outdated there is an option to modify existing user information.
 
-[Firebase Tutorial/Demo Video](http://youtube.link.goes.here)
+[Firebase Tutorial/Demo Video](https://youtu.be/t5K6fRkKXx4)
 
 # Cloud Database
 
